@@ -18,3 +18,9 @@ In modern parlance, especially for the Java developer, we can simplify the McCab
 10_water-simulator\src\main\java\simulator\util\Discrete.java cc 7
 11_imsmart\src\main\java\com\imsmart\servlet\HTMLFilter.java cc 8
 15_beanbin\src\main\java\net\sourceforge\beanbin\search\WildcardSearch.java cc 10
+19_jmca\src\main\java\com\soops\CEN4010\JMCA\JParser\JavaCharStream.java cc 16
+22_byuic\src\main\java\com\yahoo\platform\yui\compressor\CssCompressor.java cc 23
+24_saxpath\src\main\java\saxpath\Axis.java cc 14
+32_httpanalyzer\src\main\java\httpanalyzer\Password.java cc 17
+33_javaviewcontrol\src\main\java\com\pmdesigns\jvc\tools\Base64Coder.java cc 14
+33_javaviewcontrol\src\main\java\com\pmdesigns\jvc\tools\HtmlEncoder.java cc 11

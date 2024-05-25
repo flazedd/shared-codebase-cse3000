@@ -30,17 +30,20 @@ In modern parlance, especially for the Java developer, we can simplify the McCab
 -	35_corina\src\main\java\corina\util\Sort.java
 -	35_corina\src\main\java\corina\util\StringComparator.java
 -	35_corina\src\main\java\corina\util\StringUtils.java
--	36_schemaspy\src\main\java\net\sourceforge\schemaspy\util\Inflection.java
+-	
 -	36_schemaspy\src\main\java\net\sourceforge\schemaspy\util\LogFormatter.java
 -	36_schemaspy\src\main\java\net\sourceforge\schemaspy\util\PasswordReader.java
 -	36_schemaspy\src\main\java\net\sourceforge\schemaspy\util\Version.java
--	38_javabullboard\src\main\java\framework\util\FileUtils.java
--	38_javabullboard\src\main\java\framework\util\ObejctUtils.java
--	44_summa\src\main\java\org\apache\lucene\util\ChunkedLongArray.java
+-	
+-	
+-	
 
-not working properly for some reason:
+not included for some reason:
 10_water-simulator\src\main\java\simulator\util\Discrete.java cc 7
 19_jmca\src\main\java\com\soops\CEN4010\JMCA\JParser\JavaCharStream.java cc 16
 22_byuic\src\main\java\com\yahoo\platform\yui\compressor\CssCompressor.java cc 23
 32_httpanalyzer\src\main\java\httpanalyzer\Password.java cc 17
-
+36_schemaspy\src\main\java\net\sourceforge\schemaspy\util\Inflection.java
+38_javabullboard\src\main\java\framework\util\FileUtils.java
+38_javabullboard\src\main\java\framework\util\ObejctUtils.java
+44_summa\src\main\java\org\apache\lucene\util\ChunkedLongArray.java

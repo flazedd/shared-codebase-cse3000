@@ -47,3 +47,11 @@ not included for some reason:
 38_javabullboard\src\main\java\framework\util\FileUtils.java
 38_javabullboard\src\main\java\framework\util\ObejctUtils.java
 44_summa\src\main\java\org\apache\lucene\util\ChunkedLongArray.java
+
+
+note about jar files:
+7: only base64.java in there
+15: only WilcardSearch.java
+35: only 4 files
+36: only 2 files
+66 only commandline.java in there

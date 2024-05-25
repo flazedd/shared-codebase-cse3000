@@ -55,3 +55,9 @@ note about jar files:
 35: only 4 files
 36: only 2 files
 66 only commandline.java in there
+
+how i generated the .jar files example:
+cd 1_tullibee/
+mkdir out
+for /r ./src/main/java %f in (*.java) do javac -d ./out -cp "./lib/*" %f
+jar cf 1_tullibee.jar -C out .

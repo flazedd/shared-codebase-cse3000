@@ -12,18 +12,18 @@ In modern parlance, especially for the Java developer, we can simplify the McCab
 6. With exceptions, you can add each throws, throw, catch or finally block as a single point when calculating the McCabe cyclomatic complexity metric.
 
 
-- 1_tullibee\src\main\java\com\ib\client\Util.java cc 9
-- 5_templateit\src\main\java\org\templateit\OpMatcher.java cc 10
-- 7_sfmis\src\main\java\com\hf\sfm\crypt\Base64.java cc 8
-- 10_water-simulator\src\main\java\simulator\util\Discrete.java cc 7
-- 11_imsmart\src\main\java\com\imsmart\servlet\HTMLFilter.java cc 8
-- 15_beanbin\src\main\java\net\sourceforge\beanbin\search\WildcardSearch.java cc 10
-- 19_jmca\src\main\java\com\soops\CEN4010\JMCA\JParser\JavaCharStream.java cc 16
-- 22_byuic\src\main\java\com\yahoo\platform\yui\compressor\CssCompressor.java cc 23
-- 24_saxpath\src\main\java\saxpath\Axis.java cc 14
-- 32_httpanalyzer\src\main\java\httpanalyzer\Password.java cc 17
-- 33_javaviewcontrol\src\main\java\com\pmdesigns\jvc\tools\Base64Coder.java cc 14
-- 33_javaviewcontrol\src\main\java\com\pmdesigns\jvc\tools\HtmlEncoder.java cc 11
+1. 1_tullibee\src\main\java\com\ib\client\Util.java cc 9
+2. 5_templateit\src\main\java\org\templateit\OpMatcher.java cc 10
+3. 7_sfmis\src\main\java\com\hf\sfm\crypt\Base64.java cc 8
+4.  
+5. 11_imsmart\src\main\java\com\imsmart\servlet\HTMLFilter.java cc 8
+6. 15_beanbin\src\main\java\net\sourceforge\beanbin\search\WildcardSearch.java cc 10
+7. 
+8. 
+9. 24_saxpath\src\main\java\saxpath\Axis.java cc 14
+10. 1_tullibee\src\main\java\com\ib\client\Contract.java
+11. 33_javaviewcontrol\src\main\java\com\pmdesigns\jvc\tools\Base64Coder.java cc 14
+12. 33_javaviewcontrol\src\main\java\com\pmdesigns\jvc\tools\HtmlEncoder.java cc 11
 
 (Added by Adam)
 -	35_corina\src\main\java\corina\util\NaturalSort.java
@@ -37,3 +37,10 @@ In modern parlance, especially for the Java developer, we can simplify the McCab
 -	38_javabullboard\src\main\java\framework\util\FileUtils.java
 -	38_javabullboard\src\main\java\framework\util\ObejctUtils.java
 -	44_summa\src\main\java\org\apache\lucene\util\ChunkedLongArray.java
+
+not working properly for some reason:
+10_water-simulator\src\main\java\simulator\util\Discrete.java cc 7
+19_jmca\src\main\java\com\soops\CEN4010\JMCA\JParser\JavaCharStream.java cc 16
+22_byuic\src\main\java\com\yahoo\platform\yui\compressor\CssCompressor.java cc 23
+32_httpanalyzer\src\main\java\httpanalyzer\Password.java cc 17
+

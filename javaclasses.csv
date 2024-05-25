@@ -1,0 +1,21 @@
+﻿Number;Path;Package + classname;Cyclomatic Complexity;# lines
+1;1_tullibee\src\main\java\com\ib\client\Util.java;com.ib.client.Util;9;
+2;1_tullibee\src\main\java\com\ib\client\Contract.java;com.ib.client.Contract;23;130
+3;5_templateit\src\main\java\org\templateit\OpMatcher.java;org.templateit.OpMatcher;10;
+4;7_sfmis\src\main\java\com\hf\sfm\crypt\Base64.java;com.hf.sfm.crypt.Base64;8;
+5;11_imsmart\src\main\java\com\imsmart\servlet\HTMLFilter.java;com.imsmart.servlet.HTMLFilter;8;70
+6;15_beanbin\src\main\java\net\sourceforge\beanbin\search\WildcardSearch.java;net.sourceforge.beanbin.search.WildcardSearch;10;52
+7;24_saxpath\src\main\java\saxpath\Axis.java;org.saxpath.Axis;14;
+8;33_javaviewcontrol\src\main\java\com\pmdesigns\jvc\tools\Base64Coder.java;com.pmdesigns.jvc.tools.Base64Coder;14;146
+9;33_javaviewcontrol\src\main\java\com\pmdesigns\jvc\tools\HtmlEncoder.java;com.pmdesigns.jvc.tools.HtmlEncoder;11;47
+10;35_corina\src\main\java\corina\util\NaturalSort.java;corina.util.NaturalSort;13;144
+11;35_corina\src\main\java\corina\util\Sort.java;corina.util.Sort;6;139
+12;;;;
+13;;;;
+14;;;;
+15;;;;
+16;;;;
+17;;;;
+18;;;;
+19;;;;
+20;;;;

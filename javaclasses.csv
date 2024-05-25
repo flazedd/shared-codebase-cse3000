@@ -1,0 +1,24 @@
+﻿Number;Path;Package + classname;Cyclomatic Complexity;# lines
+1;1_tullibee\src\main\java\com\ib\client\Util.java;com.ib.client.Util;9;
+2;1_tullibee\src\main\java\com\ib\client\Contract.java;com.ib.client.Contract;23;130
+3;5_templateit\src\main\java\org\templateit\OpMatcher.java;org.templateit.OpMatcher;10;
+4;7_sfmis\src\main\java\com\hf\sfm\crypt\Base64.java;com.hf.sfm.crypt.Base64;8;
+5;11_imsmart\src\main\java\com\imsmart\servlet\HTMLFilter.java;com.imsmart.servlet.HTMLFilter;8;70
+6;15_beanbin\src\main\java\net\sourceforge\beanbin\search\WildcardSearch.java;net.sourceforge.beanbin.search.WildcardSearch;10;52
+7;24_saxpath\src\main\java\saxpath\Axis.java;org.saxpath.Axis;14;
+8;33_javaviewcontrol\src\main\java\com\pmdesigns\jvc\tools\Base64Coder.java;com.pmdesigns.jvc.tools.Base64Coder;14;146
+9;33_javaviewcontrol\src\main\java\com\pmdesigns\jvc\tools\HtmlEncoder.java;com.pmdesigns.jvc.tools.HtmlEncoder;11;47
+10;35_corina\src\main\java\corina\util\NaturalSort.java;corina.util.NaturalSort;13;144
+11;35_corina\src\main\java\corina\util\Sort.java;corina.util.Sort;6;139
+12;35_corina\src\main\java\corina\util\StringComparator.java;corina.util.StringComparator;6;78
+13;35_corina\src\main\java\corina\util\StringUtils.java;corina.util.StringUtils;11;202
+14;36_schemaspy\src\main\java\net\sourceforge\schemaspy\util\LogFormatter.java;net.sourceforge.schemaspy.util.LogFormatter;6;138
+15;36_schemaspy\src\main\java\net\sourceforge\schemaspy\util\Version.java;net.sourceforge.schemaspy.util.Version;4;74
+16;51_jiprof\src\main\java\org\objectweb\asm\jip\ByteVector.java;org.objectweb.asm.jip.ByteVector;14;294
+17;52_lagoon\src\main\java\nu\staldal\util\Utils.java;nu.staldal.util.Utils;12;175
+18;66_openjms\src\main\java\org\exolab\jms\util\CommandLine.java;org.exolab.jms.util.CommandLine;6;198
+19;68_biblestudy\src\main\java\bible\util\Queue.java;bible.util.Queue;6;205
+20;72_battlecry\src\main\java\bcry\bcWord.java;bcry.bcWord;8;102
+21;73_fim1\src\main\java\osa\ora\server\utils\StringEncoder64.java;osa.ora.server.utils.StringEncoder64;8;210
+22;;;;
+23;;;;

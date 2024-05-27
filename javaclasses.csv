@@ -12,13 +12,13 @@
 11;35_corina\src\main\java\corina\util\Sort.java;corina.util.Sort;6;139
 12;35_corina\src\main\java\corina\util\StringComparator.java;corina.util.StringComparator;6;78
 13;35_corina\src\main\java\corina\util\StringUtils.java;corina.util.StringUtils;11;202
-14;36_schemaspy\src\main\java\net\sourceforge\schemaspy\util\LogFormatter.java;net.sourceforge.schemaspy.util.LogFormatter;6;138
+14;73_fim1\src\main\java\osa\ora\server\utils\StringEncoder64.java;osa.ora.server.utils.StringEncoder64;8;210
 15;36_schemaspy\src\main\java\net\sourceforge\schemaspy\util\Version.java;net.sourceforge.schemaspy.util.Version;4;74
 16;51_jiprof\src\main\java\org\objectweb\asm\jip\ByteVector.java;org.objectweb.asm.jip.ByteVector;14;294
 17;52_lagoon\src\main\java\nu\staldal\util\Utils.java;nu.staldal.util.Utils;12;175
 18;66_openjms\src\main\java\org\exolab\jms\util\CommandLine.java;org.exolab.jms.util.CommandLine;6;198
 19;68_biblestudy\src\main\java\bible\util\Queue.java;bible.util.Queue;6;205
 20;72_battlecry\src\main\java\bcry\bcWord.java;bcry.bcWord;8;102
-21;73_fim1\src\main\java\osa\ora\server\utils\StringEncoder64.java;osa.ora.server.utils.StringEncoder64;8;210
+21;;;;
 22;;;;
 23;;;;
